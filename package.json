@@ -1,0 +1,30 @@
+{
+  "name": "haxeflixel_gulp_restart",
+  "version": "1.0.0",
+  "description": "A tool to relaunch the flash player after changes on project files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andre-lima/Haxeflixel_Gulp_Restart.git"
+  },
+  "keywords": [
+    "game",
+    "haxeflixel",
+    "flash",
+    "gulp"
+  ],
+  "author": "Andre Dantas Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andre-lima/Haxeflixel_Gulp_Restart/issues"
+  },
+  "homepage": "https://github.com/andre-lima/Haxeflixel_Gulp_Restart#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-shell": "^0.6.5",
+    "gulp-watch": "^4.3.11"
+  }
+}
