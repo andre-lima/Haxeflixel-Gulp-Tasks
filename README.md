@@ -33,8 +33,8 @@ Run ```gulp``` on the command line to launch the game.
 
 Run ```gulp watch``` to watch for changes on the files and relaunch the player after each change saved.
 
-## Customization
-A few customizations can be done on how the window will be displayed.
+## Flash Player Customizations
+A few customizations can be done on how the game window will be displayed.
 
 These options are well detailed on the comments inside ```gulpfile.js``` .
 
