@@ -8,7 +8,8 @@ This tools has been developped on Ubuntu and I haven't tested it in any other OS
 To run this tool you need to install the Flash Player Debugger and associate .swf files to be opened with it.
 
 You'll also need the following:
-* node.js (version 6+)
+* wmctrl ( sudo apt-get install wmctrl )
+* node.js [version 6+]
 * npm
 * gulp ( version 4 absolutely necessary: npm install --save-dev gulp@next )
 * gulp-shell ( npm install --save-dev gulp-shell ) 
