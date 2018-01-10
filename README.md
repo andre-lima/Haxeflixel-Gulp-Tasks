@@ -28,6 +28,7 @@ Add node_modules to your .gitignore file
 ```
 printf "\n# Ignoring node_modules folder \n node_modules/" > .gitignore
 ```
+Finally, copy the gulpfile.js file from this repository to the root folder of your project.
 
 ## Usage
 Run ```gulp``` on the command line to launch the game.
